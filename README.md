@@ -1,2 +1,3 @@
 # Prime-Number-Checker
-You Can Add Your Code Too...
+
+This repository contains a simple C program to check if a given number is a prime number or not.
